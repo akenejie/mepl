@@ -1,4 +1,4 @@
-# 物理的等価交換ライセンス v1.0 (MEPL)
+# 物理的等価交換ライセンス v0.1 (MEPL)
 ### Material Equivalence Public License (MEPL)
 
 Copyright (C) 2026 Akenejie

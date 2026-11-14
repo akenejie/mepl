@@ -1,4 +1,4 @@
-# Material Equivalence Public License (MEPL) v1.0
+# Material Equivalence Public License (MEPL) v0.1
 
 Copyright (C) 2026 Akenejie
 
