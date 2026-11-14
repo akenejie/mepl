@@ -1,4 +1,4 @@
-# 物理的等価交換ライセンスについて (MEPL)
+# 物理的等価交換パブリックライセンスについて (MEPL)
 # About Material Equivalence Public License (MEPL)
 
 情報の自由な利用、複製、改変、共有を認めながら、情報そのものを商品化することを防ぐためのライセンスです。
@@ -269,7 +269,7 @@ THE WORK IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, TO THE EXTENT PERMIT
 プロジェクト内に、以下のような表示を追加できます。
 
     This work is licensed under the
-    Material Equivalence Public License (MEPL) v1.0.
+    Material Equivalence Public License (MEPL) v0.1.
     See the LICENSE file for the full license text.
 
 ---
