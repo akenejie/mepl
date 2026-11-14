@@ -298,4 +298,4 @@ MEPLが目指すのは、創造活動を経済的な取引から切り離し、�
 
 Copyright (C) 2026 Akenejie
 
-Material Equivalence Public License (MEPL) v1.0
+Material Equivalence Public License (MEPL)
