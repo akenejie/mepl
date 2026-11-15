@@ -1,30 +1,30 @@
 # Material Equivalence Public License (MEPL) v0.1
 
-Copyright (C) 2026 Akenejie
+Copyright (C) 2026 アケネＪ / Akenejie
 
 ---
 
 ## Preamble
 
-Information does not diminish when copied. When you hand over a copy, you lose nothing. Therefore, exchanging the copying or transmission of information for money has no basis as equivalent exchange.
+Information does not diminish when copied. When you hand over a copy, you lose nothing of the information itself. Therefore, exchanging the copying or transmission of information for money has no basis as a physical equivalent exchange.
 
-Likewise, labor time and money do not equivalent-exchange: beyond the fact of having worked, a contract is a necessary condition for any claim.
+Likewise, labor time and money do not equivalent-exchange in themselves: beyond the fact of having worked, a claim requires a contract.
 
-Physical objects are different. Objects cannot be copied; they involve wear, transport, and storage. Equivalent exchange holds only between objects and money. When a book is sold, what is sold is the book as an object — not the information written inside it. The information is valued at zero. That is correct.
+Physical objects are different. Objects cannot be copied; they involve manufacturing, wear, transport, and storage. Equivalent exchange holds only between objects and money. When a book is sold, what is sold is the book as a physical object — not the information written inside it. The information is valued at zero. That is correct.
 
 The creation of information is an end in itself for the creating subject.
 
 And a donation is not a sale. The donor is not a customer but an accomplice.
 
-A customer, here, means one who receives goods or services in exchange for consideration — a counterparty bound by mutual claims of payment and receipt. An accomplice means a person on the inside of the creating subject, one who provides resources for the sake of that self-purpose. A donation is not an act of buying information; it is a tacit declaration of joining the inside of the creating subject. Therefore no consideration arises from a donation, and the grant does not change whether a donation is made or not.
+A customer, here, means one who receives goods in exchange for consideration — a counterparty in a relationship where consuming and receiving are bound together as mutual claims. An accomplice means a person on the inside of the creating subject, one who provides resources for the sake of that self-purpose. A donation is not an act of buying information; it is a tacit declaration of joining the inside of the creating subject. Therefore no consideration arises from a donation, and the license conditions do not change according to the presence or absence of a donation.
 
-This license is a device for using the exclusive rights granted by current copyright law only in the direction of preventing the commodification of information. The conditions of this license attach to acts, not to categories of actors. Whether a for-profit corporation or an individual, only acts are regulated.
+This license is a device for utilizing the exclusive rights granted by current copyright law only in the direction of preventing the commodification of information. The conditions of this license attach to acts, not to categories of actors. Whether a for-profit corporation or an individual, only acts are regulated.
 
 The grantor shares the principle of not commodifying information. This declaration does not legally bind the grantor through the grantor's own copyright, but for the grantor to make the Work Data a source of consideration would contradict the premise and spirit of this license.
 
-This license makes no claim of conformity with "open source" or any other definition. It is for the recipient to judge.
+This license makes no claim of conformity with "open source" or any other definition. It is for those who receive this License to judge.
 
-The preamble is a guide to interpretation; the wording of the Articles prevails over the expressions of the preamble.
+The preamble is a guide to interpretation; the explicit provisions of the Articles prevail over the expressions of the preamble.
 
 ## Article 1 (Definitions)
 
@@ -77,7 +77,7 @@ If conditions are imposed on you (whether by court order, agreement, or otherwis
    b. charging for the provision of the Work Data or of a Modified Version itself (including paid streaming and paid access).
 2. Incorporation permitted. The Work Data or a Modified Version may be integrated into, preinstalled on, or bundled with paid software, hardware, products, or services. In such a case, the Consideration must not contain Information Consideration (Paragraph 4).
 3. Limits on advertising revenue. One must not, for the purpose of monetizing the provision of, access to, or downloading of the Work Data or a Modified Version itself, place advertisements on the provision pages or the like, or obtain referral or affiliate commissions or the like. However, business revenue arising from the results in which the Work Data and Modified Versions play only an auxiliary role — such as advertising revenue on content (websites, videos, images, etc.) created or provided by running and operating the Work Data as a tool or infrastructure — is out of scope of the prohibition.
-4. The Physical Exception. Equivalent exchange holds for physical objects and physical resources. Their sale and provision is a consideration of object or resource, not a consideration of the reproduction of information. Accordingly, the following acts do not constitute Information Consideration (without limitation):
+4. The Physical Exception. Equivalent exchange holds for physical objects (Physical Resources). Their sale and provision is a consideration of object or resource, not a consideration of the reproduction of information. Accordingly, the following acts do not constitute Information Consideration (without limitation):
    a. Embedded sales. The Work Data or a Modified Version may be sold embedded in a hardware product or the like. However, the price of the product must be an amount reasonably explained by the general market value of hardware of equivalent physical specifications that does not include the Work Data (including the case where it is made to run standardly with free-of-charge alternative software), or by the physical manufacturing and distribution costs.
    b. Provision of Physical Resources. When providing computing resources for AI inference, bandwidth, storage, print-on-demand manufacturing, or other Physical Resources, one may charge consideration equivalent to the actual cost.
    c. Resale of physical objects legitimately acquired.
@@ -134,7 +134,7 @@ The Work Data is provided "as is". To the extent permitted by applicable law, no
 1. The grantor retains the exclusive rights granted by current copyright law (reproduction, public transmission, transfer, etc.). They are exercised only for the enforcement of the conditions of this license.
 2. Enforcement may be carried out by each rights holder and co-author individually. No particular governing organization is required.
 3. This license is not a waiver of the copyright granted under copyright law. It includes no dedication to the public domain.
-4. The terms of this License (reproduction, distribution, public transmission, adaptation, etc.) are not limited to the statutory terms of any particular jurisdiction. Using the concepts of "propagation" and "conveyance" as defined in Article 1.9 and 1.10, this License is interpreted to have the maximum effect possible under the law of each jurisdiction, covering all acts by which others acquire, run, or modify the Work Data, or enable third parties to do so.
+4. The terms of this License (reproduction, distribution, public transmission, adaptation, etc.) are not limited to the statutory terms of any particular jurisdiction. Using the concepts of "propagation" and "conveyance" as defined in Article 1.9 and 1.10, this License is interpreted to have the maximum effect possible under the law of each jurisdiction, covering all acts by which others acquire or modify the Work Data, or enable third parties to do so.
 5. If any provision of this License is held unenforceable in a particular jurisdiction, the remaining provisions, and the provision in question to the extent enforceable in that jurisdiction, remain in effect. Courts shall apply a minimal amendment closest to the intent of this License to the extent enforceable.
 
 ## Article 11 (Abolition of Copyright Law and Disarmament)
