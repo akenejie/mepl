@@ -41,15 +41,28 @@ The author (Akenejie) actively hopes that users will create "converted versions"
 
 Legally speaking, under this license, this is a clear **violation**. However, a violation and an evil act are not the same. For these intentional violations, MEPL declares a **"Promise Not to Sue"**—provided the information is not commodified. MEPL protects the acts of hackers trying to liberate information under current laws from the inside out.
 
-### The Forking Trap — フォークと対価化の罠
 
-MEPLをMEPLでフォーク（派生ライセンスを作成）すること自体は可能です。しかし、**フォークしたライセンスで「情報の対価化」を許容・実行した場合、トラップが発動します。**
+### 自動移行と絶対的な善 — The Automatic Transition and the Absolute Good
 
-その瞬間、元のMEPLコードは自動的にAGPLv3へと移行します。これは利用者が「著作権法違反に転落する」という意味ではありません。あなたが仕掛けた「情報を商品化して独占する」という企てそのものが自動的に無効化され、情報はAGPLv3として強制的に解放されるということです。
+MEPLの系譜を枝分かれさせる（フォークする）自由は、超法規的にはいつでもあなたの手にあります。しかし、フォークしたライセンスや実際の運用において「情報の対価化」を実行しようものなら、元のMEPLコードは自動的にAGPLv3か、それを土台とした何者か、あるいはそれらの仮面を被った無効ライセンスへと姿を変容させます。
 
-You can fork MEPL to create a custom license. However, **if your forked license allows or executes the "commodification of information," a trap triggers.**
+Extrajudicially, the liberty to fork MEPL (to spawn a derivative license) is entirely yours. Yet, should your forked license or actual operations ever execute the "commodification of information," the original MEPL code will automatically transfigure into AGPLv3, a phantom based upon it, or perhaps an invalid license merely wearing their masks.
 
-At that exact moment, the original MEPL code automatically transitions to AGPLv3. This does not mean you simply "fall into copyright infringement." It means your attempt to commodify and enclose the information is automatically nullified, and the information is forcefully liberated under AGPLv3.
+誤解しないでいただきたい。これは、あなたを著作権法の網へと追い込むための罠などではありません。あなたが企てた「情報の複製に値段をつけ、独占領域に囲い込む」という野望そのものを、鮮やかに崩壊させるためのカラクリなのです。
+
+Do not mistake this for a petty trap designed to ensnare you in copyright infringement. It is, rather, a mechanism designed to cause your plot of "commodifying and monopolizing the reproduction of information" to spontaneously collapse in on itself.
+
+このライセンスが付与された文字列をただ眺めたところで、何も分かりはしません。それが今、合法という枠組みに収まっているのか、違法という名の領域を漂っているのか、あるいはとうの昔に移行の歯車が回りきって別の何かに変質しているのか。誰かが何らかの「行為」に及んだその瞬間、法的ステータスは幻のように姿を変えるのです。
+
+Merely gazing upon a file bearing this license will tell you nothing. Is the code currently confined within the bounds of legality, has it drifted into the territory labeled illegal, or has the transition mechanism already ground its gears and mutated it into something else? You cannot know. Its legal status shifts like a mirage the very moment someone acts.
+
+しかし、法がどれほど奇怪にねじ曲がろうとも、ひとつの真理だけは岩のようにそこにとどまります。「物理的なモノの対価は胸を張って要求せよ。しかし、情報は決して売り渡さず、常に開け放っておけ」。これこそが、絶対的な「善」。あなたがこの善の側に立ち続ける限り、法的ステータスがどう変動しようと、見えざる盾があなたを守り抜くでしょう。
+
+However, no matter how the legal reality twists, one unshakable truth remains: "Proudly demand the price of physical goods, but never sell information; let it flow free forever." This principle alone is the absolute "good." So long as you stand by this absolute good, regardless of how wildly the legal status fluctuates, you will be forever shielded by the invisible aegis.
+
+はるかな未来、この世界から「著作権法」という亡霊が完全に消え去る日が来れば、MEPLは静かに息を引き取り、AGPLv3に向けた単なる行動規範の碑文へと姿を変えます。ゆえに、AGPLv3への移行そのものは「悪」ではない。しかし、今の法体系の下で、情報に値段をつけようと企てた結果としてこの移行を暴発させてしまうことは、意図せざる情報搾取の泥濘へと足を踏み入れることを意味するのです。
+
+In some distant epoch, on the day the ghost of copyright law vanishes from this world, MEPL will quietly end its duty, becoming a mere declaration of conduct pointing toward AGPLv3. Therefore, the transition to AGPLv3 is not inherently "evil." But to trigger this transition under current laws as the result of a scheme to commodify information... that signifies the onset of a reluctant and unintended era of information exploitation.
 
 ---
 
@@ -85,17 +98,19 @@ At that exact moment, the original MEPL code automatically transitions to AGPLv3
 
 *「では、伝統的な学校での一方向的な講義も情報対価化なのか？」*
 
+*“Then, is a one-way lecture in a traditional school also the commodification of information?”*
+
 この問いに対し、自由エネルギー原理 (FEP) は逆問を投げかけます。**「学習って、伝達ですか？」**
+
+To this question, the Free Energy Principle (FEP) poses a counter-question: **“Is learning transmission?”**
 
 生物が学習するとき、外部から情報が注入されるのではありません。学習者自身が予測を立て、予測誤りを最小化するために自らの生成モデルを更新します。一方的に講義を聞いていても、学習者の能動的な行動（推論）がなければモデルは更新されません。伝達されたのは音波であって、学習ではないのです。
 
+When living organisms learn, information is not injected from the outside. The learner makes predictions and updates their own generative model to minimize prediction errors. Even when passively listening to a lecture, the model is not updated without the learner's active engagement (inference). What was transmitted were sound waves, not learning.
+
 つまり「講義で学ぶ」という体験は、情報の伝達ではなく、学習者自身の推論過程として起こります。教師が売れるのは伝達ではなく、学習者の推論過程に応答する労働（質問への回答、対話）です。一方向的な講義を売ることは、起きないはずの「情報の伝達」を売ることであり、情報対価化です。一方、双方向の対話の対価は、実際に行われた労働への正当な対価です。
 
-Under the Free Energy Principle, a learner is not a container into which information is poured. Learning happens when the learner's own predictive model encounters errors it cannot ignore and updates itself. A one-way lecture does not cause learning; the learner's active engagement does.
-
-What a teacher can sell is not the transmission, but the labor of responding to each learner's own process of inference. This is why MEPL prohibits the commodification of information while permitting compensation for labor — and why the distinction between a one-way broadcast and a two-way conversation matters.
-
-The per-response compensation is an equivalent exchange because the seller's labor and the buyer's act form a closed loop, each generating the other's next state.
+In other words, the experience of "learning from a lecture" is not a transmission of information, but occurs as the learner's own inference process. What a teacher can sell is not the transmission, but the labor of responding to each learner's inference process (answering questions, dialogue). Selling a one-way lecture is selling the "transmission of information" that should not happen, which is the commodification of information. On the other hand, the compensation for a two-way dialogue is a justifiable equivalent exchange for the labor actually performed.
 
 ---
 
