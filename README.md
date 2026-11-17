@@ -288,6 +288,30 @@ MEPLが目指すのは、創造活動を経済的な取引から切り離し、�
 
 そして、いつか情報の独占を正当化する制度そのものが不要になったとき、MEPLもまた、その役割を終えることを想定しています。
 
+## 学習は伝達か — 自由エネルギー原理からの一問
+
+「では、伝統的な学校での一方向的な講義も情報対価化なのか？」
+
+この問いに対して、自由エネルギー原理(FEP)は逆問を投げかける。**学習って、伝達ですか？**
+
+FEPの見立てでは、生物が学習するとき、外部から情報が「注入」されるのではない。学習者自身が予測を立て、その予測誤り(自由エネルギー)を最小化するために、自らの生成モデルを更新する。講義を一方的に聞いていても、学習者の行動(質問、実験、予測)がなければ、モデルは更新されない。伝達されたのは音波であって、学習ではない。
+
+つまり「講義で学ぶ」という体験は、講義という情報の伝達ではなく、学習者自身が能動的に推論し、誤りを修正する過程として起こる。教師が売れるのは伝達ではなく、学習者の推論過程に応答する労働(質問への回答、個別の実演)である。
+
+一方向的な講義の対価化は、学習という起きないはずの現象を売っている。双方向の対話の対価化は、実際に行われた労働の対価である。この差が、MEPLが情報の対価化を禁じながら労働の対価を認める理由である。
+
+この帰結として、対価が成立する取引では、販売先の人間の側にも行為が発生している。モノを受け取るために手を伸ばすこと、対面のために移動すること、問いを発すること——いずれも、受領者自身の運動がその後のやり取りを変える行為である。何も行為しない人間に届くのは一方向的な伝達だけであり、それは感覚の受動的な受容であって、行為ではない。双方向の応答ごとの対価が等価交換であるのは、販売元の労働と販売先の行為が互いに相手の次の状態を生み出し合う閉じた環を形成しているからである。
+
+MEPLの条文は、この哲学を持ち出さずに機械的な基準(双方向の応答ごとの対価)として実装する。しかし思想としては、この問い——**学習は伝達か、それとも推論か**——こそが、情報の対価化を禁じる根拠の深部にある。
+
+**Is learning transmission?**
+
+Under the Free Energy Principle, a learner is not a container into which information is poured. Learning happens when the learner's own predictive model encounters errors it cannot ignore and updates itself. A one-way lecture does not cause learning; the learner's active engagement does. What a teacher can sell is not the transmission but the labor of responding to each learner's own process of inference. This is why MEPL prohibits the commodification of information while permitting compensation for labor — and why the distinction between a broadcast and a conversation matters.
+
+As a consequence, an act also occurs on the buyer's side in any transaction where consideration is valid: reaching out to receive a thing, traveling to be present, or voicing a question — each is an act of the recipient's own that changes what follows in the exchange. What reaches a person who performs no act is one-way transmission alone — passive sensory reception, not an act. The per-response compensation is equivalent exchange because the seller's labor and the buyer's act form a closed loop, each generating the other's next state.
+
+---
+
 **Information does not diminish when copied.**
 
 **Creation is an end in itself.**
