@@ -1,7 +1,9 @@
-# 物理的等価交換パブリックライセンス（MEPL） v0.1
+# 物理的等価交換パブリックライセンス（MEPL） v0.1 (Alpha)
 ### Material Equivalence Public License (MEPL)
 
 Copyright (C) 2026 アケネＪ / Akenejie
+
+Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed.
 
 ---
 
