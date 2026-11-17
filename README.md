@@ -1,6 +1,4 @@
-# MEPL宣言書
-
-# MEPL Manifesto
+# MEPL宣言書 / MEPL Manifesto
 **Material Equivalence Public License**
 
 情報は複製しても減らない。創造は自己目的である。寄付は売買ではない。
@@ -10,8 +8,6 @@ Information does not diminish when copied. Creation is an end in itself. A donat
 **A license that separates the sharing of information from the equivalent exchange of physical resources and labor, preventing the commodification of information.**
 
 本文 / Full Text: [English](MEPL-0.1-en.md) [日本語](MEPL-0.1-ja.md)
-
----
 
 ## 思想と目的 — Philosophy and Purpose
 
@@ -50,8 +46,6 @@ You can fork MEPL to create a custom license. However, **if your forked license 
 
 At that exact moment, the original MEPL code automatically transitions to AGPLv3. This does not mean you simply "fall into copyright infringement." It means your attempt to commodify and enclose the information is automatically nullified, and the information is forcefully liberated under AGPLv3.
 
----
-
 ## 基本原則 — Core Principles
 
 1. **Information Is Not a Commodity (情報は商品ではない)**
@@ -63,11 +57,10 @@ At that exact moment, the original MEPL code automatically transitions to AGPLv3
 4. **Acts, Not Categories of Actors (行為を縛り、属性を問わない)**
 営利企業であろうと個人であろうと自由に使えます。社内利用や製品への組み込みも自由です。禁じているのは「情報を売る行為」だけです。
 
----
-
 ## 哲学：学習は伝達か？ — Philosophy: Is Learning Transmission?
 
 *「では、伝統的な学校での一方向的な講義も情報対価化なのか？」*
+
 この問いに対し、自由エネルギー原理 (FEP) は逆問を投げかけます。**「学習って、伝達ですか？」**
 
 生物が学習するとき、外部から情報が注入されるのではありません。学習者自身が予測を立て、予測誤りを最小化するために自らの生成モデルを更新します。一方的に講義を聞いていても、学習者の能動的な行動（推論）がなければモデルは更新されません。伝達されたのは音波であって、学習ではないのです。
@@ -82,11 +75,10 @@ The per-response compensation is an equivalent exchange because the seller's lab
 
 ---
 
-**すべての情報が私有財産から解放され、**
-**このライセンスがただの歴史の記録になる日まで。**
+**すべての情報が私有財産から解放され、このライセンスがただの歴史の記録になる日まで。**
 
-**Until all information is liberated from private ownership,**
-**and this license becomes nothing but a historical record.**
+**Until all information is liberated from private ownership, and this license becomes nothing but a historical record.**
 
 Copyright (C) 2026 アケネＪ / Akenejie
+
 Material Equivalence Public License (MEPL)
