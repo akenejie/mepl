@@ -2,16 +2,21 @@
 **Material Equivalence Public License**
 
 情報は複製しても減らない。創造は自己目的である。寄付は売買ではない。
+
 **「情報の共有」と「物理的資源・労働の等価交換」を分離し、情報の商品化を阻止するライセンス。**
 
 Information does not diminish when copied. Creation is an end in itself. A donation is not a sale.
+
 **A license that separates the sharing of information from the equivalent exchange of physical resources and labor, preventing the commodification of information.**
 
-本文 / Full Text: [English](MEPL-0.1-en.md) [日本語](MEPL-0.1-ja.md)
+本文 / Full Text: [English](MEPL-0.1-en.md) · [日本語](MEPL-0.1-ja.md)
+
+---
 
 ## 思想と目的 — Philosophy and Purpose
 
 **著作権法は悪である。違反と悪は別物だ。**
+
 **Copyright law is evil. Violation and evil are not the same thing.**
 
 現行の著作権法は、情報をモノのように扱い、広告や「映え（バエ）」でカネを稼ぐことを正当化します。それは人々のコンテンツへの依存症を搾取し、他人の顔色をうかがう「強化学習的な忖度」を生み出しています。
@@ -26,7 +31,7 @@ Creation, fundamentally, is not about "working hard to be recognized by others."
 
 MEPL is a hacking device designed to counter the false reality of treating information as private property. In the future, when the very concept of copyright law disappears and information is no longer monopolized by specific physical media, this license will become unnecessary. That day will be the moment of "disarmament."
 
-### The AGPLv3 Paradox (密結合の要請と不提訴の約束)
+### The AGPLv3 Paradox — 密結合の要請と不提訴の約束
 
 著作者（アケネＪ）は、利用者がこのMEPLとAGPLv3のソフトウェアを密結合させた「転換版」を活発に作り出すことを願っています。
 
@@ -36,7 +41,7 @@ The author (Akenejie) actively hopes that users will create "converted versions"
 
 Legally speaking, under this license, this is a clear **violation**. However, a violation and an evil act are not the same. For these intentional violations, MEPL declares a **"Promise Not to Sue"**—provided the information is not commodified. MEPL protects the acts of hackers trying to liberate information under current laws from the inside out.
 
-### The Forking Trap (フォークと対価化の罠)
+### The Forking Trap — フォークと対価化の罠
 
 MEPLをMEPLでフォーク（派生ライセンスを作成）すること自体は可能です。しかし、**フォークしたライセンスで「情報の対価化」を許容・実行した場合、トラップが発動します。**
 
@@ -46,16 +51,35 @@ You can fork MEPL to create a custom license. However, **if your forked license 
 
 At that exact moment, the original MEPL code automatically transitions to AGPLv3. This does not mean you simply "fall into copyright infringement." It means your attempt to commodify and enclose the information is automatically nullified, and the information is forcefully liberated under AGPLv3.
 
+---
+
 ## 基本原則 — Core Principles
 
-1. **Information Is Not a Commodity (情報は商品ではない)**
-情報のコピー、ダウンロード、アクセス、利用権そのものに金銭を要求することを禁じます。
-2. **Physical Objects and Resources Are Different (物理的資源は例外である)**
-ハードウェアへの組み込み、計算資源（GPU等）の電気代、通信帯域の実費、そして「人間のリアルタイムな労働」に対する対価は、等価交換として完全に認められます。
-3. **Creation as an End in Itself (創造は自己目的である)**
-創作者への寄付は歓迎されますが、寄付は「情報を買う対価」ではありません。寄付の有無によって機能や優遇に差をつけることは禁じられます。
-4. **Acts, Not Categories of Actors (行為を縛り、属性を問わない)**
-営利企業であろうと個人であろうと自由に使えます。社内利用や製品への組み込みも自由です。禁じているのは「情報を売る行為」だけです。
+1. **Information Is Not a Commodity — 情報は商品ではない**
+
+	情報のコピー、ダウンロード、アクセス、利用権、機能そのものに対して、金銭その他の対価を要求することを禁じます。
+
+	Charging for the copying, downloading, access, usage rights, or functionality of information itself is prohibited.
+
+2. **Physical Objects and Resources Are Different — 物理的資源は別物である**
+
+	ハードウェアへの組込み、計算資源（GPU等）の利用に伴う電力・設備費、通信帯域や保管の実費、そして人間のリアルタイムな労働に対する対価は、物理的資源や労働との等価交換として認められます。
+
+	Payment for hardware integration, electricity and infrastructure used for computing resources such as GPUs, actual bandwidth and storage costs, and real-time human labor is permitted as an exchange for physical resources or labor.
+
+3. **Creation as an End in Itself — 創造は自己目的である**
+
+	創作者への寄付は歓迎されます。しかし、寄付は情報を買うための対価ではありません。寄付の有無によって、利用できる機能、許諾条件、優先順位その他の待遇に差をつけることは禁止されます。
+
+	Donations to creators are welcome. However, a donation is not payment for information. Donations must not affect available functionality, license conditions, priority, or any other preferential treatment.
+
+4. **Acts, Not Categories of Actors — 行為を規制し、行為者の属性を問わない**
+
+	営利企業であろうと個人であろうと、利用者の属性によって利用を制限しません。社内利用や製品への組込みも可能です。規制するのは行為であり、情報そのものを対価と引き換えに提供する行為を禁じます。
+
+	Whether the user is a commercial enterprise or an individual makes no difference. Internal business use and integration into products are permitted. MEPL regulates conduct, not the category of the actor: it prohibits providing information itself in exchange for consideration.
+
+---
 
 ## 哲学：学習は伝達か？ — Philosophy: Is Learning Transmission?
 
@@ -77,7 +101,7 @@ The per-response compensation is an equivalent exchange because the seller's lab
 
 **すべての情報が私有財産から解放され、このライセンスがただの歴史の記録になる日まで。**
 
-**Until all information is liberated from private ownership, and this license becomes nothing but a historical record.**
+**Until all information is liberated from private ownership, and this license becomes nothing more than a historical record.**
 
 Copyright (C) 2026 アケネＪ / Akenejie
 
