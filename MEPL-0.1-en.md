@@ -85,9 +85,14 @@ If conditions are imposed on you (whether by court order, agreement, or otherwis
 
 Donations are welcome.
 
-1. A donation or support that is entirely voluntary and unconditional is not Consideration.
-2. Coerced, disguised, or conditioned donations or support fall under the prohibition of Article 3.
+1. A donation means the provision of money or other economic value that is entirely voluntary and subject to no conditions. That is, a donation is unconditional, and is not Consideration.
+2. The provision of money or other economic value that is coerced, disguised, or conditioned is not a donation, and is deemed to have been demanded as Consideration.
 3. A donation is neither a condition of the grant nor a basis for priority, acceleration, or preferential treatment of the grant.
+4. Soliciting donations by expressing, toward future creative activities or the realization of a new concept, indications of the necessary funding, target amounts, wishes, plans, or prospects does not, in itself, constitute a promise of the completion of deliverables, delivery deadlines, specific specifications, or the provision of labor as Consideration for the donation, and does not fall under Paragraph 2.
+Likewise, where the achievement of a target amount is indicated as a benchmark for, or a prerequisite to, commencing creative activities, or where a statement such as "if donations are raised, I will create the next work" is made, the exchange condition of Paragraph 2 is not deemed to be attached to the donation merely by reason of such a declaration, or of expressing it with the word "promise" in an everyday or colloquial sense.
+In order for the provision of money or other economic value to be a donation, the freedom to alter the concept, to refrain from commencing production, or to discontinue production must be retained, even after its receipt. No right arises, for any donor, to claim the completion of deliverables, delivery, the realization of specific specifications, or the provision of labor on the ground of the donation.
+However, where, vis-à-vis existing users of the Work Data or a Modified Version, economic disadvantage by reason of not making a donation is caused, or the avoidance of such disadvantage is held out as an incentive for the solicitation of donations, and the implementation or provision of modifications necessary for the safe use of the work data, security patches, existing essential functions, or functions necessary for their maintenance is withheld until the target amount is reached, the transfer of money is not a donation and is deemed to have been demanded as Consideration.
+The mere fact that the commencement of new creative activities, or the realization of new concepts not contained in the existing Work Data, is not commenced on the ground of insufficient funding does not constitute the economic disadvantage toward existing users under the preceding Paragraph.
 
 ## Article 5 (Source Disclosure)
 
