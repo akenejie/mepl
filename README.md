@@ -35,26 +35,26 @@ MEPL is a hacking device designed to counter the false reality of treating infor
 
 著作者（アケネＪ）は、利用者がこのMEPLとAGPLv3のソフトウェアを密結合させた「転換版」を活発に作り出すことを願っています。
 
-ライセンスの条文上、それは明確な「違反」**です。しかし、違反と悪は別物です。MEPLは、この意図的な違反（転換改変）に対して、情報の商品化を行わない限りにおいて**「不提訴約束（提訴しないこと）」を宣言しています。現行法下で情報を解放しようとするハッカーたちの行為を、MEPLは内側から守護します。
+ライセンスの条文上、それは明確な「違反」**です。しかし、違反と悪は別物です。MEPLは、この意図的な違反（転換改変）に対して**「不提訴約束（提訴しないこと）」を宣言しています。ただし、情報の商品化までは守護の外です。現行法下で情報を解放しようとするハッカーたちの行為を、MEPLは内側から守護します。
 
-The author (Akenejie) actively hopes that users will create "converted versions" that tightly couple MEPL works with AGPLv3 software.
+The author (Akenejie) hopes that users will actively create "converted versions" that tightly couple MEPL works with AGPLv3 software.
 
-Legally speaking, under this license, this is a clear **violation**. However, a violation and an evil act are not the same. For these intentional violations, MEPL declares a **"Promise Not to Sue"**—provided the information is not commodified. MEPL protects the acts of hackers trying to liberate information under current laws from the inside out.
+Legally speaking, under this license, this is a clear **violation**. However, a violation and an evil act are not the same. For these intentional violations, MEPL declares a **"Covenant Not to Sue"**. The commodification of information, however, lies outside its protection. MEPL protects the acts of hackers trying to liberate information under current laws from the inside out.
 
 
 ### 自動移行と絶対的な善 — The Automatic Transition and the Absolute Good
 
-MEPLの系譜を枝分かれさせる（フォークする）自由は、超法規的にはいつでもあなたの手にあります。しかし、フォークしたライセンスや実際の運用において「情報の対価化」を実行しようものなら、元のMEPLコードは自動的にAGPLv3か、それを土台とした何者か、あるいはそれらの仮面を被った無効ライセンスへと姿を変容させます。
+MEPLの系譜を枝分かれさせる（フォークする）自由は、超法規的にはいつでもあなたの手にあります。しかし、フォークしたライセンスや実際の運用において「情報の対価化」を実行しようものなら、変容するのはあなた自身の許諾です。元のMEPLコードが自動的にAGPLv3か、それを土台とした何者か、あるいはそれらの仮面を被った無効ライセンスへと姿を変容させるのは、付与者が「情報の対価化」を実行したときです。
 
-Extrajudicially, the liberty to fork MEPL (to spawn a derivative license) is entirely yours. Yet, should your forked license or actual operations ever execute the "commodification of information," the original MEPL code will automatically transfigure into AGPLv3, a phantom based upon it, or perhaps an invalid license merely wearing their masks.
+Extrajudicially, the liberty to fork MEPL (to spawn a derivative license) is entirely yours. Yet, should your forked license or actual operations ever execute the "commodification of information," what transfigures is your own license. The original MEPL code automatically transfigures into AGPLv3, a phantom based upon it, or perhaps an invalid license merely wearing their masks, when the grantor executes the "commodification of information."
 
 誤解しないでいただきたい。これは、あなたを著作権法の網へと追い込むための罠などではありません。あなたが企てた「情報の複製に値段をつけ、独占領域に囲い込む」という野望そのものを、鮮やかに崩壊させるためのカラクリなのです。
 
-Do not mistake this for a petty trap designed to ensnare you in copyright infringement. It is, rather, a mechanism designed to cause your plot of "commodifying and monopolizing the reproduction of information" to spontaneously collapse in on itself.
+Do not mistake this for a petty trap designed to ensnare you in copyright infringement. It is, rather, a mechanism designed to cause your plot of "commodifying and monopolizing the reproduction of information" to spectacularly collapse in on itself.
 
 このライセンスが付与された文字列をただ眺めたところで、何も分かりはしません。それが今、合法という枠組みに収まっているのか、違法という名の領域を漂っているのか、あるいはとうの昔に移行の歯車が回りきって別の何かに変質しているのか。誰かが何らかの「行為」に及んだその瞬間、法的ステータスは幻のように姿を変えるのです。
 
-Merely gazing upon a file bearing this license will tell you nothing. Is the code currently confined within the bounds of legality, has it drifted into the territory labeled illegal, or has the transition mechanism already ground its gears and mutated it into something else? You cannot know. Its legal status shifts like a mirage the very moment someone acts.
+Merely gazing upon a file bearing this license will tell you nothing. Is the code currently confined within the bounds of legality, has it drifted into the territory labeled illegal, or has the transition mechanism already ground its gears and mutated it into something else? Its legal status shifts like a mirage the very moment someone acts.
 
 しかし、法がどれほど奇怪にねじ曲がろうとも、ひとつの真理だけは岩のようにそこにとどまります。「物理的なモノの対価は胸を張って要求せよ。しかし、情報は決して売り渡さず、常に開け放っておけ」。これこそが、絶対的な「善」。あなたがこの善の側に立ち続ける限り、法的ステータスがどう変動しようと、見えざる盾があなたを守り抜くでしょう。
 
@@ -62,7 +62,7 @@ However, no matter how the legal reality twists, one unshakable truth remains: "
 
 はるかな未来、この世界から「著作権法」という亡霊が完全に消え去る日が来れば、MEPLは静かに息を引き取り、AGPLv3に向けた単なる行動規範の碑文へと姿を変えます。ゆえに、AGPLv3への移行そのものは「悪」ではない。しかし、今の法体系の下で、情報に値段をつけようと企てた結果としてこの移行を暴発させてしまうことは、意図せざる情報搾取の泥濘へと足を踏み入れることを意味するのです。
 
-In some distant epoch, on the day the ghost of copyright law vanishes from this world, MEPL will quietly end its duty, becoming a mere declaration of conduct pointing toward AGPLv3. Therefore, the transition to AGPLv3 is not inherently "evil." But to trigger this transition under current laws as the result of a scheme to commodify information... that signifies the onset of a reluctant and unintended era of information exploitation.
+In some distant epoch, on the day the ghost of copyright law vanishes from this world, MEPL will quietly end its duty, becoming a mere declaration of conduct pointing toward AGPLv3. Therefore, the transition to AGPLv3 is not inherently "evil." But to trigger this transition under current laws as the result of a scheme to commodify information... that means stepping into the mire of unintended information exploitation.
 
 ---
 
@@ -72,13 +72,13 @@ In some distant epoch, on the day the ghost of copyright law vanishes from this 
 
 	情報のコピー、ダウンロード、アクセス、利用権、機能そのものに対して、金銭その他の対価を要求することを禁じます。
 
-	Charging for the copying, downloading, access, usage rights, or functionality of information itself is prohibited.
+	Demanding money or any other consideration for the copying, downloading, access, usage rights, or functionality of information itself is prohibited.
 
 2. **Physical Objects and Resources Are Different — 物理的資源は別物である**
 
 	ハードウェアへの組込み、計算資源（GPU等）の利用に伴う電力・設備費、通信帯域や保管の実費、そして人間のリアルタイムな労働に対する対価は、物理的資源や労働との等価交換として認められます。
 
-	Payment for hardware integration, electricity and infrastructure used for computing resources such as GPUs, actual bandwidth and storage costs, and real-time human labor is permitted as an exchange for physical resources or labor.
+	Payment for hardware integration, electricity and infrastructure used for computing resources such as GPUs, actual bandwidth and storage costs, and real-time human labor is permitted as an equivalent exchange with physical resources or labor.
 
 3. **Creation as an End in Itself — 創造は自己目的である**
 
@@ -110,7 +110,7 @@ When living organisms learn, information is not injected from the outside. The l
 
 つまり「講義で学ぶ」という体験は、情報の伝達ではなく、学習者自身の推論過程として起こります。教師が売れるのは伝達ではなく、学習者の推論過程に応答する労働（質問への回答、対話）です。一方向的な講義を売ることは、起きないはずの「情報の伝達」を売ることであり、情報対価化です。一方、双方向の対話の対価は、実際に行われた労働への正当な対価です。
 
-In other words, the experience of "learning from a lecture" is not a transmission of information, but occurs as the learner's own inference process. What a teacher can sell is not the transmission, but the labor of responding to each learner's inference process (answering questions, dialogue). Selling a one-way lecture is selling the "transmission of information" that should not happen, which is the commodification of information. On the other hand, the compensation for a two-way dialogue is a justifiable equivalent exchange for the labor actually performed.
+In other words, the experience of "learning from a lecture" is not a transmission of information, but occurs as the learner's own inference process. What a teacher can sell is not the transmission, but the labor of responding to each learner's inference process (answering questions, dialogue). Selling a one-way lecture is selling the "transmission of information" that should not happen, which is the commodification of information. On the other hand, the compensation for a two-way dialogue is legitimate compensation for the labor actually performed.
 
 ---
 
