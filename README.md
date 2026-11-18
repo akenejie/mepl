@@ -1,5 +1,5 @@
 # MEPL宣言書 / MEPL Manifesto
-**Material Equivalence Public License**
+**物理的等価交換パブリックライセンス / Material Equivalence Public License**
 
 情報は複製しても減らない。創造は自己目的である。寄付は売買ではない。
 
