@@ -3,13 +3,13 @@
 
 情報は複製しても減らない。創造は自己目的である。寄付は売買ではない。
 
-**「情報の共有」と「物理的資源・労働の等価交換」を分離し、情報の商品化を阻止するライセンス。**
-
 Information does not diminish when copied. Creation is an end in itself. A donation is not a sale.
+
+**「情報の共有」と「物理的資源・労働の等価交換」を分離し、情報の商品化を阻止するライセンス。**
 
 **A license that separates the sharing of information from the equivalent exchange of physical resources and labor, preventing the commodification of information.**
 
-本文 / Full Text: [English](MEPL-0.1-en.md) · [日本語](MEPL-0.1-ja.md)
+本文 / Full Text: [日本語](MEPL-0.1-ja.md) · [English](MEPL-0.1-en.md)
 
 ---
 
@@ -21,13 +21,13 @@ Information does not diminish when copied. Creation is an end in itself. A donat
 
 現行の著作権法は、情報をモノのように扱い、広告や「映え（バエ）」でカネを稼ぐことを正当化します。それは人々のコンテンツへの依存症を搾取し、他人の顔色をうかがう「強化学習的な忖度」を生み出しています。
 
-創造とは本来、「人に認められるために頑張る」ものではありません。「まず自分が楽しむ。人に認められたらラッキー」という、アドラー心理学的な自己目的であるべきです。
-
-MEPLは、情報を私有財産として扱う誤った現実に対抗するハッキング装置です。将来、著作権法という概念が消え去り、情報が特定の物理媒体に独占されなくなったとき、このライセンスは不要となります。その日こそが「武装解除」の時です。
-
 The current copyright law treats information as a physical object, justifying making money off advertisements and social media vanity (clout). This exploits people's addiction to content and breeds a culture of "reinforcement-learning-like pandering," where creators constantly seek external validation.
 
+創造とは本来、「人に認められるために頑張る」ものではありません。「まず自分が楽しむ。人に認められたらラッキー」という、アドラー心理学的な自己目的であるべきです。
+
 Creation, fundamentally, is not about "working hard to be recognized by others." It should be an Adlerian end in itself: "Enjoy it yourself first; if others recognize it, that's just a bonus."
+
+MEPLは、情報を私有財産として扱う誤った現実に対抗するハッキング装置です。将来、著作権法という概念が消え去り、情報が特定の物理媒体に独占されなくなったとき、このライセンスは不要となります。その日こそが「武装解除」の時です。
 
 MEPL is a hacking device designed to counter the false reality of treating information as private property. In the future, when the very concept of copyright law disappears and information is no longer monopolized by specific physical media, this license will become unnecessary. That day will be the moment of "disarmament."
 
@@ -35,9 +35,9 @@ MEPL is a hacking device designed to counter the false reality of treating infor
 
 著作者（アケネＪ）は、利用者がこのMEPLとAGPLv3のソフトウェアを密結合させた「転換版」を活発に作り出すことを願っています。
 
-ライセンスの条文上、それは明確な「違反」**です。しかし、違反と悪は別物です。MEPLは、この意図的な違反（転換改変）に対して**「不提訴約束（提訴しないこと）」を宣言しています。ただし、情報の商品化までは守護の外です。現行法下で情報を解放しようとするハッカーたちの行為を、MEPLは内側から守護します。
-
 The author (Akenejie) hopes that users will actively create "converted versions" that tightly couple MEPL works with AGPLv3 software.
+
+ライセンスの条文上、それは明確な「違反」**です。しかし、違反と悪は別物です。MEPLは、この意図的な違反（転換改変）に対して**「不提訴約束（提訴しないこと）」を宣言しています。ただし、情報の商品化までは守護の外です。現行法下で情報を解放しようとするハッカーたちの行為を、MEPLは内側から守護します。
 
 Legally speaking, under this license, this is a clear **violation**. However, a violation and an evil act are not the same. For these intentional violations, MEPL declares a **"Covenant Not to Sue"**. The commodification of information, however, lies outside its protection. MEPL protects the acts of hackers trying to liberate information under current laws from the inside out.
 
