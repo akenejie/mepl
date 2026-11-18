@@ -119,5 +119,3 @@ In other words, the experience of "learning from a lecture" is not a transmissio
 **Until all information is liberated from private ownership, and this license becomes nothing more than a historical record.**
 
 Copyright (C) 2026 アケネＪ / Akenejie
-
-Material Equivalence Public License (MEPL)
