@@ -114,8 +114,8 @@ In other words, the experience of "learning from a lecture" is not a transmissio
 
 ---
 
-**すべての情報が私有財産から解放され、このライセンスがただの歴史の記録になる日まで。**
+**法律が情報を排他的な財産として孕むのをやめ、このライセンスがただの歴史の記録になる日まで。**
 
-**Until all information is liberated from private ownership, and this license becomes nothing more than a historical record.**
+**Until the day the law ceases to gestate information as exclusive property, and this license becomes nothing more than a historical record.**
 
 Copyright (C) 2026 アケネＪ / Akenejie
