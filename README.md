@@ -37,7 +37,7 @@ MEPL is a hacking device designed to counter the false reality of treating infor
 
 The author (Akenejie) hopes that users will actively create "converted versions" that tightly couple MEPL works with AGPLv3 software.
 
-ライセンスの条文上、それは明確な**「違反」**です。しかし、違反と悪は別物です。MEPLは、この意図的な違反（転換改変）に対して**「不提訴約束（提訴しないこと）」**を宣言しています。ただし、情報の商品化までは守護の外です。現行法下で情報を解放しようとするハッカーたちの行為を、MEPLは内側から守護します。
+ライセンスの条文上、それは明確な「**違反**」です。しかし、違反と悪は別物です。MEPLは、この意図的な違反（転換改変）に対して「**不提訴約束（提訴しないこと）**」を宣言しています。ただし、情報の商品化までは守護の外です。現行法下で情報を解放しようとするハッカーたちの行為を、MEPLは内側から守護します。
 
 Legally speaking, under this license, this is a clear **violation**. However, a violation and an evil act are not the same. For these intentional violations, MEPL declares a **"Covenant Not to Sue"**. The commodification of information, however, lies outside its protection. MEPL protects the acts of hackers trying to liberate information under current laws from the inside out.
 
@@ -100,7 +100,7 @@ In some distant epoch, on the day the ghost of copyright law vanishes from this 
 
 *“Then, is a one-way lecture in a traditional school also the commodification of information?”*
 
-この問いに対し、自由エネルギー原理 (FEP) は逆問を投げかけます。**「学習って、伝達ですか？」**
+この問いに対し、自由エネルギー原理 (FEP) は逆問を投げかけます。「**学習って、伝達ですか？**」
 
 To this question, the Free Energy Principle (FEP) poses a counter-question: **“Is learning transmission?”**
 
