@@ -9,7 +9,7 @@ Information does not diminish when copied. Creation is an end in itself. A donat
 
 **A license that separates the sharing of information from the equivalent exchange of physical resources and labor, preventing the commodification of information.**
 
-本文 / Full Text: Version 0.2 [日本語](MEPLv0.2-ja.md) · [English](MEPLv0.2-en.md)
+本文 / Full Text: Version 0.3 [日本語](MEPLv0.3-ja.md) · [English](MEPLv0.3-en.md)
 
 ---
 

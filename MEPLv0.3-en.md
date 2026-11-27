@@ -1,6 +1,6 @@
 # Material Equivalence Public License (MEPL)
 ### 物理的等価交換パブリックライセンス（MEPL）
-Version 0.2+ (beta)
+Version 0.3, 27 November 2026
 
 Copyright © 2026 アケネＪ / Akenejie
 
